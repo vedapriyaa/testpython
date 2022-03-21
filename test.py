@@ -1,1 +1,1 @@
-print("Hello, excuting the test python script-v2")
+print("Hello, world")
